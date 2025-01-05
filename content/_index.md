@@ -13,9 +13,10 @@ content_blocks:
       _bookshop_name: home/hero
       title: xBeautiful email campaigns
       description: >-
-         With Sendit, you can quickly create beautiful rich emails that capture
-         a reader's attention, engage them, and convert them into customers.
-      image_path: /images/q.svg
+         With Optymzer, you can quickly create beautiful rich emails that
+         capture a reader's attention, engage them, and convert them into
+         customers.
+      image_path: /images/qq.png
       link:
          text: Try This Free
          url: /#
